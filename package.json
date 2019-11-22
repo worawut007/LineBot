@@ -1,0 +1,11 @@
+{
+  "name": "lineBot",
+  "version": "1",
+  "main": "index.js",
+  "repository": "https://github.com/worawut007/LineBot.git",
+  "author": "worawut <worawut@thinknet.co.th>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
